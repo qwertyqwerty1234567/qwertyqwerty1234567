@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @qwertyqwerty1234567
-- 👀 I’m interested in software development
+- 👀 I’m interested in employment
 - 🌱 I’m currently learning machine learning
 
 
